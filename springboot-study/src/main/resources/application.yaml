@@ -1,0 +1,11 @@
+server:
+  port: 8084
+
+person:
+  last_name: zhangsan
+  age: 18
+  sex: \u7537
+  likes:
+    - book
+    - movie
+    - girl
